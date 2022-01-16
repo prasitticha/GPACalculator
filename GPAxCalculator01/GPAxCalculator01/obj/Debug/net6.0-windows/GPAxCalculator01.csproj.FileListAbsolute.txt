@@ -1,0 +1,17 @@
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\GPAxCalculator01\GPAxCalculator01\bin\Debug\net6.0-windows\GPAxCalculator01.exe
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\GPAxCalculator01\GPAxCalculator01\bin\Debug\net6.0-windows\GPAxCalculator01.deps.json
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\GPAxCalculator01\GPAxCalculator01\bin\Debug\net6.0-windows\GPAxCalculator01.runtimeconfig.json
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\GPAxCalculator01\GPAxCalculator01\bin\Debug\net6.0-windows\GPAxCalculator01.dll
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\GPAxCalculator01\GPAxCalculator01\bin\Debug\net6.0-windows\ref\GPAxCalculator01.dll
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\GPAxCalculator01\GPAxCalculator01\bin\Debug\net6.0-windows\GPAxCalculator01.pdb
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\GPAxCalculator01\GPAxCalculator01\obj\Debug\net6.0-windows\GPAxCalculator01.csproj.AssemblyReference.cache
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\GPAxCalculator01\GPAxCalculator01\obj\Debug\net6.0-windows\GPAxCalculator01.Form1.resources
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\GPAxCalculator01\GPAxCalculator01\obj\Debug\net6.0-windows\GPAxCalculator01.csproj.GenerateResource.cache
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\GPAxCalculator01\GPAxCalculator01\obj\Debug\net6.0-windows\GPAxCalculator01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\GPAxCalculator01\GPAxCalculator01\obj\Debug\net6.0-windows\GPAxCalculator01.AssemblyInfoInputs.cache
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\GPAxCalculator01\GPAxCalculator01\obj\Debug\net6.0-windows\GPAxCalculator01.AssemblyInfo.cs
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\GPAxCalculator01\GPAxCalculator01\obj\Debug\net6.0-windows\GPAxCalculator01.csproj.CoreCompileInputs.cache
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\GPAxCalculator01\GPAxCalculator01\obj\Debug\net6.0-windows\GPAxCalculator01.dll
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\GPAxCalculator01\GPAxCalculator01\obj\Debug\net6.0-windows\ref\GPAxCalculator01.dll
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\GPAxCalculator01\GPAxCalculator01\obj\Debug\net6.0-windows\GPAxCalculator01.pdb
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\GPAxCalculator01\GPAxCalculator01\obj\Debug\net6.0-windows\GPAxCalculator01.genruntimeconfig.cache
